@@ -1,0 +1,103 @@
+PMID- 37324525
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230619
+IS  - 2590-1362 (Electronic)
+IS  - 2590-1362 (Linking)
+VI  - 14
+DP  - 2023 Aug
+TI  - Benefit-risk assessment of Covid-19 vaccine, MRNA (MRNA-1273) for males age 18-64 
+      years.
+PG  - 100325
+LID - 10.1016/j.jvacx.2023.100325 [doi]
+LID - 100325
+AB  - Since the authorization of the Moderna mRNA COVID-19 vaccine, real-world evidence 
+      has indicated its effectiveness in preventing COVID-19 cases. However, increased 
+      cases of mRNA vaccine-associated myocarditis/pericarditis have been reported, 
+      predominantly in young adults and adolescents. The Food and Drug Administration 
+      conducted a benefit-risk assessment to inform the review of the Biologics License 
+      Application for use of the Moderna vaccine among individuals ages 18 and older. 
+      We modeled the benefit-risk per million individuals who receive two complete 
+      doses of the vaccine. Benefit endpoints were vaccine-preventable COVID-19 cases, 
+      hospitalizations, intensive care unit (ICU) admissions, and deaths. The risk 
+      endpoints were vaccine-related myocarditis/pericarditis cases, hospitalizations, 
+      ICU admissions, and deaths. The analysis was conducted on the age-stratified male 
+      population due to data signals and previous work showing males to be the main 
+      risk group. We constructed six scenarios to evaluate the impact of uncertainty 
+      associated with pandemic dynamics, vaccine effectiveness (VE) against novel 
+      variants, and rates of vaccine-associated myocarditis/pericarditis cases on the 
+      model results. For our most likely scenario, we assumed the US COVID-19 incidence 
+      was for the week of December 25, 2021, with a VE of 30% against cases and 72% 
+      against hospitalization with the Omicron-dominant strain. Our source for 
+      estimating vaccine-attributable myocarditis/pericarditis rates was FDA's CBER 
+      Biologics Effectiveness and Safety (BEST) System databases. Overall, our results 
+      supported the conclusion that the benefits of the vaccine outweigh its risks. 
+      Remarkably, we predicted vaccinating one million 18-25 year-old males would 
+      prevent 82,484 cases, 4,766 hospitalizations, 1,144 ICU admissions, and 51 deaths 
+      due to COVID-19, comparing to 128 vaccine-attributable myocarditis/pericarditis 
+      cases, 110 hospitalizations, zero ICU admissions, and zero deaths. Uncertainties 
+      in the pandemic trajectory, effectiveness of vaccine against novel variants, and 
+      vaccine-attributable myocarditis/pericarditis rate are important limitations of 
+      our analysis. Also, the model does not evaluate potential long-term adverse 
+      effects due to either COVID-19 or vaccine-attributable myocarditis/pericarditis.
+CI  - © 2023 The Authors.
+FAU - Yogurtcu, Osman N
+AU  - Yogurtcu ON
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Funk, Patrick R
+AU  - Funk PR
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Forshee, Richard A
+AU  - Forshee RA
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Anderson, Steven A
+AU  - Anderson SA
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Marks, Peter W
+AU  - Marks PW
+AD  - Office of Vaccines Research and Review, Center for Biologics Evaluation and 
+      Research, US FDA, Silver Spring, MD, USA.
+AD  - Office of the Center Director, Center for Biologics Evaluation and Research, US 
+      FDA, Silver Spring, MD, USA.
+FAU - Yang, Hong
+AU  - Yang H
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230602
+PL  - England
+TA  - Vaccine X
+JT  - Vaccine: X
+JID - 101748769
+PMC - PMC10234830
+OTO - NOTNLM
+OT  - Benefit-risk analysis
+OT  - COVID-19 vaccine
+OT  - FDA
+OT  - Males
+OT  - Myocarditis
+OT  - Pericarditis
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper.
+EDAT- 2023/06/16 06:42
+MHDA- 2023/06/16 06:43
+PMCR- 2023/06/02
+CRDT- 2023/06/16 04:12
+PHST- 2022/05/19 00:00 [received]
+PHST- 2022/09/13 00:00 [revised]
+PHST- 2023/05/30 00:00 [accepted]
+PHST- 2023/06/16 06:43 [medline]
+PHST- 2023/06/16 06:42 [pubmed]
+PHST- 2023/06/16 04:12 [entrez]
+PHST- 2023/06/02 00:00 [pmc-release]
+AID - S2590-1362(23)00066-9 [pii]
+AID - 100325 [pii]
+AID - 10.1016/j.jvacx.2023.100325 [doi]
+PST - ppublish
+SO  - Vaccine X. 2023 Aug;14:100325. doi: 10.1016/j.jvacx.2023.100325. Epub 2023 Jun 2.

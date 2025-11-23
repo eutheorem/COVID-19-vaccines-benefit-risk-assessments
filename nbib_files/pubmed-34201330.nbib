@@ -1,0 +1,108 @@
+PMID- 34201330
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210714
+IS  - 2076-393X (Print)
+IS  - 2076-393X (Electronic)
+IS  - 2076-393X (Linking)
+VI  - 9
+IP  - 6
+DP  - 2021 Jun 8
+TI  - A Quantitative Benefit-Risk Analysis of ChAdOx1 nCoV-19 Vaccine among People 
+      under 60 in Italy.
+LID - 10.3390/vaccines9060618 [doi]
+LID - 618
+AB  - The Oxford-AstraZeneca ChAdOx1 nCoV-19 is a vaccine against the COVID-19 
+      infection that was granted a conditional marketing authorization by the European 
+      Commission in January 2021. However, following a report from the 
+      Pharmacovigilance Risk Assessment Committee (PRAC) of European Medicines Agency, 
+      which reported an association with thrombo-embolic events (TEE), in particular 
+      disseminated intravascular coagulation (DIC) and cerebral venous sinus thrombosis 
+      (CVST), many European countries either limited it to individuals older than 55-60 
+      years or suspended its use. We used publicly available data to carry out a 
+      quantitative benefit-risk analysis of the vaccine among people under 60 in Italy. 
+      Specifically, we used data from PRAC, Eudravigilance and ECDC to estimate the 
+      excess number of deaths for TEE, DIC and CVST expected in vaccine users, 
+      stratified by age groups. We then used data from the National Institute of Health 
+      to calculate age-specific COVID-19 mortality rates in Italy. Preventable deaths 
+      were calculated assuming a 72% vaccine efficacy over an eight-month period. 
+      Finally, the benefit-risk ratio of ChAdOx1 nCoV-19 vaccination was calculated as 
+      the ratio of preventable COVID-19 deaths to vaccine-related deaths, using 
+      Monte-Carlo simulations. We found that among subjects aged 20-29 years the 
+      benefit-risk (B-R) ratio was not clearly favorable (0.70; 95% Uncertainty 
+      Interval (UI): 0.27-2.11). However, in the other age groups the benefits of 
+      vaccination largely exceeded the risks (for age 30-49, B-R ratio: 22.9: 95%UI: 
+      10.1-186.4). For age 50-59, B-R ratio: 1577.1: 95%UI: 1176.9-2121.5). Although 
+      many countries have limited the use of the ChAdOx1 nCoV-19 vaccine, the benefits 
+      of using this vaccine clearly outweigh the risks in people older than 30 years. 
+      Study limitations included risk of underreporting and that we did not provide 
+      age-specific estimates. The use of this vaccine should be a strategic and 
+      fundamental part of the immunization campaign considering its safety and efficacy 
+      in preventing COVID-19 and its complications.
+FAU - Palladino, Raffaele
+AU  - Palladino R
+AUID- ORCID: 0000-0002-3437-812X
+AD  - Department of Public Health, University "Federico II" of Naples, 80131 Napoli, 
+      Italy.
+AD  - Department of Primary Care and Public Health, Imperial College, London W68RP, UK.
+AD  - CIRMIS-Interdepartmental Center for Research in Healthcare Management and 
+      Innovation in Healthcare, University "Federico II" of Naples, 80131 Napoli, 
+      Italy.
+FAU - Ceriotti, Daniele
+AU  - Ceriotti D
+AD  - Department of Translational Medicine, University of Eastern Piedmont, 28100 
+      Novara, Italy.
+FAU - De Ambrosi, Damiano
+AU  - De Ambrosi D
+AD  - Department of Translational Medicine, University of Eastern Piedmont, 28100 
+      Novara, Italy.
+FAU - De Vito, Marta
+AU  - De Vito M
+AD  - Department of Translational Medicine, University of Eastern Piedmont, 28100 
+      Novara, Italy.
+FAU - Farsoni, Marco
+AU  - Farsoni M
+AD  - Department of Translational Medicine, University of Eastern Piedmont, 28100 
+      Novara, Italy.
+FAU - Seminara, Giuseppina
+AU  - Seminara G
+AD  - Department of Translational Medicine, University of Eastern Piedmont, 28100 
+      Novara, Italy.
+FAU - Barone-Adesi, Francesco
+AU  - Barone-Adesi F
+AUID- ORCID: 0000-0003-1550-436X
+AD  - Department of Translational Medicine, University of Eastern Piedmont, 28100 
+      Novara, Italy.
+AD  - CRIMEDIM-Research Center in Emergency and Disaster Medicine, University of 
+      Eastern Piedmont, 28100 Novara, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20210608
+PL  - Switzerland
+TA  - Vaccines (Basel)
+JT  - Vaccines
+JID - 101629355
+PMC - PMC8229711
+OTO - NOTNLM
+OT  - COVID-19
+OT  - ChAdOx1 nCoV-19
+OT  - benefit–risk analysis
+OT  - thrombo-embolic events
+OT  - vaccine
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/07/03 06:00
+MHDA- 2021/07/03 06:01
+PMCR- 2021/06/08
+CRDT- 2021/07/02 01:10
+PHST- 2021/05/07 00:00 [received]
+PHST- 2021/06/03 00:00 [revised]
+PHST- 2021/06/06 00:00 [accepted]
+PHST- 2021/07/02 01:10 [entrez]
+PHST- 2021/07/03 06:00 [pubmed]
+PHST- 2021/07/03 06:01 [medline]
+PHST- 2021/06/08 00:00 [pmc-release]
+AID - vaccines9060618 [pii]
+AID - vaccines-09-00618 [pii]
+AID - 10.3390/vaccines9060618 [doi]
+PST - epublish
+SO  - Vaccines (Basel). 2021 Jun 8;9(6):618. doi: 10.3390/vaccines9060618.

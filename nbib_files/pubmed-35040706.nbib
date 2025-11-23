@@ -1,0 +1,96 @@
+PMID- 35040706
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230228
+LR  - 20230307
+IS  - 2150-7511 (Electronic)
+VI  - 13
+IP  - 1
+DP  - 2022 Feb 22
+TI  - Vaccinating Children against COVID-19: Commentary and Mathematical Modeling.
+PG  - e0378921
+LID - 10.1128/mbio.03789-21 [doi]
+LID - e03789-21
+AB  - With the recent licensure of mRNA vaccines against COVID-19 in the 5- to 
+      11-year-old age group, the public health impact of a childhood immunization 
+      campaign is of interest. Using a mathematical epidemiological model, we project 
+      that childhood vaccination carries minimal risk and yields modest public health 
+      benefits. These include large relative reductions in child morbidity and 
+      mortality, although the absolute reduction is small because these events are 
+      rare. Furthermore, the model predicts "altruistic" absolute reductions in adult 
+      cases, hospitalizations, and mortality. However, vaccinating children to benefit 
+      adults should be considered from an ethical as well as a public health 
+      perspective. From a global health perspective, an additional ethical 
+      consideration is the justice of giving priority to children in high-income 
+      settings at low risk of severe disease while vaccines have not been made 
+      available to vulnerable adults in low-income settings. IMPORTANCE Countries have 
+      recently begun implementation of childhood vaccination against SARS-CoV-2 with 
+      the Pfizer/BioNTech mRNA vaccine in children 5 to 11 years of age. Because 
+      SARS-CoV-2 disease severity is remarkably age dependent, vaccinating children may 
+      have modest public health benefits, relative to the unequivocal benefit of 
+      vaccinating vulnerable older adults. Furthermore, vaccinating children to 
+      "altruistically" increase herd immunity should be considered from an ethical as 
+      well as a public health perspective. An additional question is related to global 
+      social justice: should priority be given to vaccinating children in high-income 
+      settings while older adult populations in low-resource settings have limited 
+      access to vaccine? To address the risks and benefits of childhood vaccination, we 
+      provide a balanced commentary, supported by a mathematical epidemiological model, 
+      using Australia and Alberta, Canada, as case studies. We give highlights of the 
+      modeling findings in the commentary and include details in the supplemental 
+      materials for interested readers.
+FAU - Hawkes, Michael T
+AU  - Hawkes MT
+AUID- ORCID: 0000-0002-4122-0937
+AD  - Department of Pediatrics, University of Albertagrid.17089.37, Edmonton, Alberta, 
+      Canada.
+AD  - Department of Medical Microbiology and Immunology, University of 
+      Albertagrid.17089.37, Edmonton, Alberta, Canada.
+AD  - School of Public Health, University of Albertagrid.17089.37, Edmonton, Alberta, 
+      Canada.
+AD  - Distinguished Researcher, Stollery Science Lab, University of 
+      Albertagrid.17089.37, Edmonton, Alberta, Canada.
+AD  - Member, Women and Children's Research Institute, University of 
+      Albertagrid.17089.37, Edmonton, Alberta, Canada.
+FAU - Good, Michael F
+AU  - Good MF
+AD  - Institute for Glycomics, Griffith Universitygrid.1022.1, Gold Coast, Australia.
+AD  - University of Albertagrid.17089.37, Edmonton, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20220118
+PL  - United States
+TA  - mBio
+JT  - mBio
+JID - 101519231
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Humans
+MH  - Child
+MH  - Aged
+MH  - Child, Preschool
+MH  - *COVID-19
+MH  - SARS-CoV-2
+MH  - COVID-19 Vaccines
+MH  - Australia
+MH  - Canada
+MH  - Vaccination
+PMC - PMC8764932
+OTO - NOTNLM
+OT  - SARS-CoV-2
+OT  - child
+OT  - epidemiology
+OT  - mRNA vaccine
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/01/19 06:00
+MHDA- 2023/03/03 06:00
+PMCR- 2022/01/18
+CRDT- 2022/01/18 12:20
+PHST- 2022/01/18 12:20 [entrez]
+PHST- 2022/01/19 06:00 [pubmed]
+PHST- 2023/03/03 06:00 [medline]
+PHST- 2022/01/18 00:00 [pmc-release]
+AID - 03789-21 [pii]
+AID - mbio.03789-21 [pii]
+AID - 10.1128/mbio.03789-21 [doi]
+PST - ppublish
+SO  - mBio. 2022 Feb 22;13(1):e0378921. doi: 10.1128/mbio.03789-21. Epub 2022 Jan 18.

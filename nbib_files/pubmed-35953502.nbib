@@ -1,0 +1,108 @@
+PMID- 35953502
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220815
+IS  - 2059-0105 (Electronic)
+IS  - 2059-0105 (Linking)
+VI  - 7
+IP  - 1
+DP  - 2022 Aug 11
+TI  - A Bayesian network analysis quantifying risks versus benefits of the Pfizer 
+      COVID-19 vaccine in Australia.
+PG  - 93
+LID - 10.1038/s41541-022-00517-6 [doi]
+LID - 93
+AB  - The Pfizer COVID-19 vaccine is associated with increased myocarditis incidence. 
+      Constantly evolving evidence regarding incidence and case fatality of COVID-19 
+      and myocarditis related to infection or vaccination, creates challenges for 
+      risk-benefit analysis of vaccination. Challenges are complicated further by 
+      emerging evidence of waning vaccine effectiveness, and variable effectiveness 
+      against variants. Here, we build on previous work on the COVID-19 Risk Calculator 
+      (CoRiCal) by integrating Australian and international data to inform a Bayesian 
+      network that calculates probabilities of outcomes for the delta variant under 
+      different scenarios of Pfizer COVID-19 vaccine coverage, age groups (≥12 years), 
+      sex, community transmission intensity and vaccine effectiveness. The model 
+      estimates that in a population where 5% were unvaccinated, 5% had one dose, 60% 
+      had two doses and 30% had three doses, there was a substantially greater 
+      probability of developing (239-5847 times) and dying (1430-384,684 times) from 
+      COVID-19-related than vaccine-associated myocarditis (depending on age and sex). 
+      For one million people with this vaccine coverage, where transmission intensity 
+      was equivalent to 10% chance of infection over 2 months, 68,813 symptomatic 
+      COVID-19 cases and 981 deaths would be prevented, with 42 and 16 expected cases 
+      of vaccine-associated myocarditis in males and females, respectively. These 
+      results justify vaccination in all age groups as vaccine-associated myocarditis 
+      is generally mild in the young, and there is unequivocal evidence for reduced 
+      mortality from COVID-19 in older individuals. The model may be updated to include 
+      emerging best evidence, data pertinent to different countries or vaccines and 
+      other outcomes such as long COVID.
+CI  - © 2022. The Author(s).
+FAU - Sinclair, Jane E
+AU  - Sinclair JE
+AUID- ORCID: 0000-0002-9178-3869
+AD  - School of Chemistry and Molecular Biosciences, Faculty of Science, The University 
+      of Queensland, Brisbane, QLD, Australia.
+FAU - Mayfield, Helen J
+AU  - Mayfield HJ
+AD  - School of Public Health, Faculty of Medicine, The University of Queensland, 
+      Brisbane, QLD, Australia.
+FAU - Short, Kirsty R
+AU  - Short KR
+AD  - School of Chemistry and Molecular Biosciences, Faculty of Science, The University 
+      of Queensland, Brisbane, QLD, Australia.
+FAU - Brown, Samuel J
+AU  - Brown SJ
+AUID- ORCID: 0000-0002-7542-8664
+AD  - School of Chemistry and Molecular Biosciences, Faculty of Science, The University 
+      of Queensland, Brisbane, QLD, Australia.
+FAU - Puranik, Rajesh
+AU  - Puranik R
+AD  - Department of Cardiology, Royal Prince Alfred Hospital, Sydney, NSW, Australia.
+AD  - Sydney Medical School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Mengersen, Kerrie
+AU  - Mengersen K
+AD  - School of Mathematical Sciences, Faculty of Science, Queensland University of 
+      Technology, Brisbane, QLD, Australia.
+FAU - Litt, John C B
+AU  - Litt JCB
+AUID- ORCID: 0000-0002-3103-0064
+AD  - Discipline of General Practice, College of Medicine and Public Health, Flinders 
+      University, Adelaide, SA, Australia.
+AD  - Scientific Advisory Committee, Immunisation Coalition, Melbourne, VIC, Australia.
+FAU - Lau, Colleen L
+AU  - Lau CL
+AUID- ORCID: 0000-0001-8288-4169
+AD  - School of Public Health, Faculty of Medicine, The University of Queensland, 
+      Brisbane, QLD, Australia. colleen.lau@uq.edu.au.
+LA  - eng
+GR  - 1193826/Department of Health | National Health and Medical Research Council 
+      (NHMRC)/
+GR  - 2007919/Department of Health | National Health and Medical Research Council 
+      (NHMRC)/
+PT  - Journal Article
+DEP - 20220811
+PL  - England
+TA  - NPJ Vaccines
+JT  - NPJ vaccines
+JID - 101699863
+PMC - PMC9371378
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper. K.R.S. is a consultant for Sanofi, Roche and NovoNordisk. The 
+      opinions and data presented in this manuscript are of the authors and are 
+      independent of these relationships.
+EDAT- 2022/08/12 06:00
+MHDA- 2022/08/12 06:01
+PMCR- 2022/08/11
+CRDT- 2022/08/11 23:17
+PHST- 2022/02/08 00:00 [received]
+PHST- 2022/07/26 00:00 [accepted]
+PHST- 2022/08/11 23:17 [entrez]
+PHST- 2022/08/12 06:00 [pubmed]
+PHST- 2022/08/12 06:01 [medline]
+PHST- 2022/08/11 00:00 [pmc-release]
+AID - 10.1038/s41541-022-00517-6 [pii]
+AID - 517 [pii]
+AID - 10.1038/s41541-022-00517-6 [doi]
+PST - epublish
+SO  - NPJ Vaccines. 2022 Aug 11;7(1):93. doi: 10.1038/s41541-022-00517-6.

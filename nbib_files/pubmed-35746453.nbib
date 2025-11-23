@@ -1,0 +1,127 @@
+PMID- 35746453
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2076-393X (Print)
+IS  - 2076-393X (Electronic)
+IS  - 2076-393X (Linking)
+VI  - 10
+IP  - 6
+DP  - 2022 May 26
+TI  - Vulnerability Predictors of Post-Vaccine SARS-CoV-2 Infection and 
+      Disease-Empirical Evidence from a Large Population-Based Italian Platform.
+LID - 10.3390/vaccines10060845 [doi]
+LID - 845
+AB  - We aimed to identify individual features associated with increased risk of 
+      post-vaccine SARS-CoV-2 infection and severe COVID-19 illness. We performed a 
+      nested case-control study based on 5,350,295 citizens from Lombardy, Italy, aged 
+      ≥ 12 years who received a complete anti-COVID-19 vaccination from 17 January 2021 
+      to 31 July 2021, and followed from 14 days after vaccine completion to 11 
+      November 2021. Overall, 17,996 infections and 3023 severe illness cases occurred. 
+      For each case, controls were 1:1 (infection cases) or 1:10 (severe illness cases) 
+      matched for municipality of residence and date of vaccination completion. The 
+      association between selected predictors (sex, age, previous occurrence of 
+      SARS-CoV-2 infection, type of vaccine received, number of previous contacts with 
+      the Regional Health Service (RHS), and the presence of 59 diseases) and outcomes 
+      was assessed by using multivariable conditional logistic regression models. Sex, 
+      age, previous SARS-CoV-2 infection, type of vaccine and number of contacts with 
+      the RHS were associated with the risk of infection and severe illness. Moreover, 
+      higher odds of infection and severe illness were significantly associated with 14 
+      and 34 diseases, respectively, among those investigated. These results can be 
+      helpful to clinicians and policy makers for prioritizing interventions.
+FAU - Corrao, Giovanni
+AU  - Corrao G
+AUID- ORCID: 0000-0002-1034-8444
+AD  - National Centre for Healthcare Research and Pharmacoepidemiology, University of 
+      Milano-Bicocca, 20126 Milan, Italy.
+AD  - Unit of Biostatistics, Epidemiology and Public Health, Department of Statistics 
+      and Quantitative Methods, University of Milano-Bicocca, 20126 Milan, Italy.
+FAU - Franchi, Matteo
+AU  - Franchi M
+AUID- ORCID: 0000-0001-9620-8057
+AD  - National Centre for Healthcare Research and Pharmacoepidemiology, University of 
+      Milano-Bicocca, 20126 Milan, Italy.
+AD  - Unit of Biostatistics, Epidemiology and Public Health, Department of Statistics 
+      and Quantitative Methods, University of Milano-Bicocca, 20126 Milan, Italy.
+FAU - Cereda, Danilo
+AU  - Cereda D
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Bortolan, Francesco
+AU  - Bortolan F
+AUID- ORCID: 0000-0003-1738-2415
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Leoni, Olivia
+AU  - Leoni O
+AUID- ORCID: 0000-0002-6906-2424
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Borriello, Catia Rosanna
+AU  - Borriello CR
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Della Valle, Petra Giulia
+AU  - Della Valle PG
+AUID- ORCID: 0000-0002-5964-3831
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Tirani, Marcello
+AU  - Tirani M
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Pavesi, Giovanni
+AU  - Pavesi G
+AD  - Directorate General for Health, Lombardy Region, 20124 Milan, Italy.
+FAU - Barone, Antonio
+AU  - Barone A
+AD  - Azienda Regionale per l'Innovazione e gli Acquisti (ARIA) S.p.A., 20124 Milan, 
+      Italy.
+FAU - Ercolanoni, Michele
+AU  - Ercolanoni M
+AD  - Azienda Regionale per l'Innovazione e gli Acquisti (ARIA) S.p.A., 20124 Milan, 
+      Italy.
+FAU - Jara, Jose
+AU  - Jara J
+AD  - Azienda Regionale per l'Innovazione e gli Acquisti (ARIA) S.p.A., 20124 Milan, 
+      Italy.
+FAU - Galli, Massimo
+AU  - Galli M
+AUID- ORCID: 0000-0001-8887-6215
+AD  - Infectious Diseases Unit, Luigi Sacco Hospital, 20157 Milan, Italy.
+AD  - Department of Biomedical and Clinical Sciences, University of Milan, 20157 Milan, 
+      Italy.
+FAU - Bertolaso, Guido
+AU  - Bertolaso G
+AD  - Vaccination Campaign Management, Lombardy Region, 20124 Milan, Italy.
+LA  - eng
+GR  - H45F20000870007/Fondazione Cariplo/
+GR  - 2017728JPK/Ministry of Education, Universities and Research/
+PT  - Journal Article
+DEP - 20220526
+PL  - Switzerland
+TA  - Vaccines (Basel)
+JT  - Vaccines
+JID - 101629355
+PMC - PMC9230065
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - predictors
+OT  - vaccines
+OT  - vulnerability
+COIS- Giovanni Corrao received research support from the European Community (EC), the 
+      Italian Agency of Drugs (AIFA) and the Italian Ministry for University and 
+      Research (MIUR). He took part in a variety of projects that were funded by 
+      pharmaceutical companies (i.e., Novartis, GSK, Roche, AMGEN and BMS). He also 
+      received honoraria as a member of the advisory board to Roche.
+EDAT- 2022/06/25 06:00
+MHDA- 2022/06/25 06:01
+PMCR- 2022/05/26
+CRDT- 2022/06/24 01:42
+PHST- 2022/04/18 00:00 [received]
+PHST- 2022/05/23 00:00 [revised]
+PHST- 2022/05/24 00:00 [accepted]
+PHST- 2022/06/24 01:42 [entrez]
+PHST- 2022/06/25 06:00 [pubmed]
+PHST- 2022/06/25 06:01 [medline]
+PHST- 2022/05/26 00:00 [pmc-release]
+AID - vaccines10060845 [pii]
+AID - vaccines-10-00845 [pii]
+AID - 10.3390/vaccines10060845 [doi]
+PST - epublish
+SO  - Vaccines (Basel). 2022 May 26;10(6):845. doi: 10.3390/vaccines10060845.

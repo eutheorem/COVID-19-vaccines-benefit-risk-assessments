@@ -1,0 +1,144 @@
+PMID- 40204579
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250601
+LR  - 20250601
+IS  - 2589-7500 (Electronic)
+IS  - 2589-7500 (Linking)
+VI  - 7
+IP  - 5
+DP  - 2025 May
+TI  - Utilising the Benefit Risk Assessment of Vaccines (BRAVE) toolkit to evaluate the 
+      benefits and risks of Vaxzevria in the EU: a population-based study.
+PG  - 100861
+LID - S2589-7500(25)00025-1 [pii]
+LID - 10.1016/j.landig.2025.02.001 [doi]
+AB  - BACKGROUND: Several COVID-19 vaccines have been licensed. To support the 
+      assessment of safety signals, we developed a toolkit to support COVID-19 vaccine 
+      monitoring and benefit-risk assessment. We aim to show the application of our 
+      toolkit in the EU using thrombosis with thrombocytopenia syndrome (TTS) 
+      associated with the Vaxzevria (AstraZeneca) vaccine as a use case. METHODS: In 
+      this population-based study, we used a model incorporating data from multiple EU 
+      sources such as The European Surveillance System and EudraVigilance, and 
+      estimated the benefits of COVID-19 vaccines by comparing the observed COVID-19 
+      confirmed cases, hospitalisations, intensive care unit (ICU) admissions, and 
+      deaths across Europe to the expected numbers in the absence of Vaxzevria 
+      vaccination. Risks of TTS associated with Vaxzevria were calculated by comparing 
+      the observed number of TTS events in individuals who received Vaxzevria to the 
+      expected number of events based on background incidence rates. To visualise the 
+      results, we developed a toolkit with an interactive web application. FINDINGS: 
+      62 598 505 Vaxzevria vaccines (32 763 183 to females and 29 835 322 to males) had 
+      been administered in Europe by Feb 10, 2021. Our results showed that a first dose 
+      of Vaxzevria provided benefits across all age groups. Based on vaccine 
+      effectiveness estimates and reported coverage in Europe, from Dec 13, 2020 to Dec 
+      31, 2021, vaccination with Vaxzevria was estimated to prevent (per 100 000 doses) 
+      12 113 COVID-19 cases, 1140 hospitalisations, 184 ICU admissions, and 261 deaths. 
+      Women aged 30-59 years and males aged 20-29 years had the highest frequency of 
+      TTS events. The benefits of vaccination outweighed the risks of TTS in all age 
+      groups, with the highest benefits and risks observed in individuals aged 60-69 
+      years. INTERPRETATION: Our toolkit and underlying model contextualised the risk 
+      of TTS associated with Vaxzevria relative to its benefits. The methodology 
+      employed could be applied to other serious adverse events related to COVID-19 or 
+      other vaccines. The adaptability and versatility of such toolkits might 
+      contribute to strengthening preparedness for future public health emergencies. 
+      FUNDING: European Medicines Agency.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Ltd. This is an Open Access 
+      article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights 
+      reserved.
+FAU - Gonzalez Dorta, Hector
+AU  - Gonzalez Dorta H
+AD  - European Medicines Agency, Amsterdam, Netherlands.
+FAU - Verbeeck, Johan
+AU  - Verbeeck J
+AD  - Data Science Institute, I-BioStat, Universiteit Hasselt, Hasselt, Belgium.
+FAU - Crevecoeur, Jonas
+AU  - Crevecoeur J
+AD  - Data Science Institute, I-BioStat, Universiteit Hasselt, Hasselt, Belgium; 
+      I-BioStat, KU Leuven, Leuven, Belgium.
+FAU - Morales, Daniel R
+AU  - Morales DR
+AD  - European Medicines Agency, Amsterdam, Netherlands; Division of Population Health 
+      and Genomics, University of Dundee, Dundee, UK.
+FAU - Loedy, Neilshan
+AU  - Loedy N
+AD  - Data Science Institute, I-BioStat, Universiteit Hasselt, Hasselt, Belgium.
+FAU - Cohet, Catherine
+AU  - Cohet C
+AD  - European Medicines Agency, Amsterdam, Netherlands.
+FAU - Willem, Lander
+AU  - Willem L
+AD  - Centre for Health Economics Research and Modelling of Infectious Diseases, 
+      Vaccine & Infectious Disease Institute, University of Antwerp, Antwerp, Belgium.
+FAU - Molenberghs, Geert
+AU  - Molenberghs G
+AD  - Data Science Institute, I-BioStat, Universiteit Hasselt, Hasselt, Belgium; 
+      I-BioStat, KU Leuven, Leuven, Belgium.
+FAU - Hens, Niel
+AU  - Hens N
+AD  - Data Science Institute, I-BioStat, Universiteit Hasselt, Hasselt, Belgium; Centre 
+      for Health Economics Research and Modelling of Infectious Diseases, Vaccine & 
+      Infectious Disease Institute, University of Antwerp, Antwerp, Belgium.
+FAU - Kurz, Xavier
+AU  - Kurz X
+AD  - European Medicines Agency, Amsterdam, Netherlands.
+FAU - Quinten, Chantal
+AU  - Quinten C
+AD  - European Medicines Agency, Amsterdam, Netherlands. Electronic address: 
+      chantal.quinten@ema.europa.eu.
+FAU - Abrams, Steven
+AU  - Abrams S
+AD  - Data Science Institute, I-BioStat, Universiteit Hasselt, Hasselt, Belgium; Global 
+      Health Institute, Family Medicine and Population Health, University of Antwerp, 
+      Antwerp, Belgium.
+LA  - eng
+PT  - Journal Article
+DEP - 20250408
+PL  - England
+TA  - Lancet Digit Health
+JT  - The Lancet. Digital health
+JID - 101751302
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Humans
+MH  - *COVID-19 Vaccines/adverse effects/administration & dosage
+MH  - Female
+MH  - Male
+MH  - Risk Assessment/methods
+MH  - Middle Aged
+MH  - Adult
+MH  - Aged
+MH  - *COVID-19/prevention & control/epidemiology
+MH  - European Union
+MH  - Adolescent
+MH  - Europe/epidemiology
+MH  - Young Adult
+MH  - Child
+MH  - Infant
+MH  - Child, Preschool
+MH  - SARS-CoV-2
+COIS- Declaration of interests HGD, DRM, CC, XK, and CQ were employees of the EMA at 
+      the time that this work was conducted. HGD is co-founder and holds stock options 
+      of Rynd Biotech, a startup company for the rapid detection of sexually 
+      transmitted infections. NH holds a grant sponsored by MSD, Janssen Vaccines & 
+      Prevention, and GSK; has received consulting fees for participation in an 
+      advisory board for Janssen Global Services; and has received payment for expert 
+      testimony for MSD. LW is the Principal Investigator of a research project on 
+      COVID-19 modelling funded by Research Foundation–Flanders (FWO Belgium). GM 
+      declares participation on a data safety monitoring board for COVID-19 vaccines 
+      trials for Janssen Pharmaceutical. These potential conflicts of interests have 
+      not influenced the design, conduct, or reporting of the work presented in this 
+      manuscript. All other authors declare no competing interests.
+EDAT- 2025/04/10 00:20
+MHDA- 2025/04/10 00:20
+CRDT- 2025/04/09 21:59
+PHST- 2023/06/23 00:00 [received]
+PHST- 2024/09/03 00:00 [revised]
+PHST- 2025/02/05 00:00 [accepted]
+PHST- 2025/04/10 00:20 [pubmed]
+PHST- 2025/04/10 00:20 [medline]
+PHST- 2025/04/09 21:59 [entrez]
+AID - S2589-7500(25)00025-1 [pii]
+AID - 10.1016/j.landig.2025.02.001 [doi]
+PST - ppublish
+SO  - Lancet Digit Health. 2025 May;7(5):100861. doi: 10.1016/j.landig.2025.02.001. 
+      Epub 2025 Apr 8.

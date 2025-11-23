@@ -1,0 +1,140 @@
+PMID- 35434685
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250530
+IS  - 2666-7762 (Electronic)
+IS  - 2666-7762 (Linking)
+VI  - 17
+DP  - 2022 Jun
+TI  - Dosing interval strategies for two-dose COVID-19 vaccination in 13 middle-income 
+      countries of Europe: Health impact modelling and benefit-risk analysis.
+PG  - 100381
+LID - 10.1016/j.lanepe.2022.100381 [doi]
+LID - 100381
+AB  - BACKGROUND: In settings where the COVID-19 vaccine supply is constrained, 
+      extending the intervals between the first and second doses of the COVID-19 
+      vaccine may allow more people receive their first doses earlier. Our aim is to 
+      estimate the health impact of COVID-19 vaccination alongside benefit-risk 
+      assessment of different dosing intervals in 13 middle-income countries (MICs) of 
+      Europe. METHODS: We fitted a dynamic transmission model to country-level daily 
+      reported COVID-19 mortality in 13 MICs in Europe (Albania, Armenia, Azerbaijan, 
+      Belarus, Bosnia and Herzegovina, Bulgaria, Georgia, Republic of Moldova, Russian 
+      Federation, Serbia, North Macedonia, Turkey, and Ukraine). A vaccine product with 
+      characteristics similar to those of the Oxford/AstraZeneca COVID-19 (AZD1222) 
+      vaccine was used in the base case scenario and was complemented by sensitivity 
+      analyses around efficacies similar to other COVID-19 vaccines. Both fixed dosing 
+      intervals at 4, 8, 12, 16, and 20 weeks and dose-specific intervals that 
+      prioritise specific doses for certain age groups were tested. Optimal intervals 
+      minimise COVID-19 mortality between March 2021 and December 2022. We incorporated 
+      the emergence of variants of concern (VOCs) into the model and conducted a 
+      benefit-risk assessment to quantify the tradeoff between health benefits versus 
+      adverse events following immunisation. FINDINGS: In all countries modelled, 
+      optimal strategies are those that prioritise the first doses among older adults 
+      (60+ years) or adults (20+ years), which lead to dosing intervals longer than six 
+      months. In comparison, a four-week fixed dosing interval may incur 10.1% [range: 
+      4.3% - 19.0%; n = 13 (countries)] more deaths. The rapid waning of the immunity 
+      induced by the first dose (i.e. with means ranging 60-120 days as opposed to 360 
+      days in the base case) resulted in shorter optimal dosing intervals of 8-20 
+      weeks. Benefit-risk ratios were the highest for fixed dosing intervals of 8-12 
+      weeks. INTERPRETATION: We infer that longer dosing intervals of over six months 
+      could reduce COVID-19 mortality in MICs of Europe. Certain parameters, such as 
+      rapid waning of first-dose induced immunity and increased immune escape through 
+      the emergence of VOCs, could significantly shorten the optimal dosing intervals. 
+      FUNDING: World Health Organization.
+CI  - © 2022 The Authors. Published by Elsevier Ltd.
+FAU - Liu, Yang
+AU  - Liu Y
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+FAU - Pearson, Carl A B
+AU  - Pearson CAB
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+FAU - Sandmann, Frank G
+AU  - Sandmann FG
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+AD  - Statistics, Modelling and Economics Department, National Infection Service, UK 
+      Health Security Agency (UK HSA), London, United Kingdom.
+FAU - Barnard, Rosanna C
+AU  - Barnard RC
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+FAU - Kim, Jong-Hoon
+AU  - Kim JH
+AD  - International Vaccine Institute, Seoul, South Korea.
+CN  - CMMID COVID-19 Working Group
+FAU - Flasche, Stefan
+AU  - Flasche S
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+FAU - Jit, Mark
+AU  - Jit M
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+AD  - Statistics, Modelling and Economics Department, National Infection Service, UK 
+      Health Security Agency (UK HSA), London, United Kingdom.
+FAU - Abbas, Kaja
+AU  - Abbas K
+AD  - Centre for Mathematical Modelling of Infectious Diseases, London School of 
+      Hygiene & Tropical Medicine, London, United Kingdom.
+AD  - Department of Infectious Disease Epidemiology, Faculty of Epidemiology and 
+      Population Health, London School of Hygiene & Tropical Medicine, London, United 
+      Kingdom.
+LA  - eng
+GR  - MR/P014658/1/MRC_/Medical Research Council/United Kingdom
+GR  - MR/S003975/1/MRC_/Medical Research Council/United Kingdom
+GR  - R01 AI141534/AI/NIAID NIH HHS/United States
+GR  - MC_PC_19065/MRC_/Medical Research Council/United Kingdom
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+DEP - 20220411
+PL  - England
+TA  - Lancet Reg Health Eur
+JT  - The Lancet regional health. Europe
+JID - 101777707
+PMC - PMC8996067
+OTO - NOTNLM
+OT  - AEFI, Adverse events following immunisation
+OT  - COVID-19
+OT  - MIC, Middle income country
+OT  - Mathematical modelling
+OT  - Public health intervention
+OT  - Quantitative methods
+OT  - SARS-CoV-2
+OT  - VE, Vaccine Efficacy
+OT  - VOC, Variant of Concern
+OT  - Vaccine policy
+COIS- We declare no competing interests.
+EDAT- 2022/04/19 06:00
+MHDA- 2022/04/19 06:01
+PMCR- 2022/04/11
+CRDT- 2022/04/18 06:43
+PHST- 2022/04/19 06:00 [pubmed]
+PHST- 2022/04/19 06:01 [medline]
+PHST- 2022/04/18 06:43 [entrez]
+PHST- 2022/04/11 00:00 [pmc-release]
+AID - S2666-7762(22)00074-6 [pii]
+AID - 100381 [pii]
+AID - 10.1016/j.lanepe.2022.100381 [doi]
+PST - ppublish
+SO  - Lancet Reg Health Eur. 2022 Jun;17:100381. doi: 10.1016/j.lanepe.2022.100381. 
+      Epub 2022 Apr 11.

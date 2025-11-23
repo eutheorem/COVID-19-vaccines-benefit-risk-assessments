@@ -1,0 +1,82 @@
+PMID- 36560439
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221227
+IS  - 2076-393X (Print)
+IS  - 2076-393X (Electronic)
+IS  - 2076-393X (Linking)
+VI  - 10
+IP  - 12
+DP  - 2022 Nov 27
+TI  - Quantitative Benefit-Risk Assessment of COVID-19 Vaccines Using the 
+      Multi-Criteria Decision Analysis.
+LID - 10.3390/vaccines10122029 [doi]
+LID - 2029
+AB  - In the early SARS-CoV-2 (COVID-19) pandemic, four major vaccines were approved 
+      despite limited efficacy and safety data through short regulatory review periods. 
+      Thus, it is necessary to assess the benefit-risk (BR) profiles of the COVID-19 
+      vaccines. We conducted a quantitative BR assessment for four COVID-19 vaccines 
+      (mRNA-based: mRNA-1273 and BNT162b2; viral vector-based: Ad26.COV.2 and 
+      ChAdOx1-S) using multi-criteria decision analysis. Three benefit criteria and two 
+      risk criteria were considered: preventing COVID-19 infection for (1) adults aged 
+      ≥18 years; (2) seniors aged 60 years or older; and (3) severe COVID-19, adverse 
+      events (AEs), and serious AEs. Data were retrieved from clinical trials, 
+      observational studies, and county-specific AE monitoring reports. Based on the 
+      collected data, vaccines were scored for each criterion. 22 professionals 
+      weighted each criterion. The overall BR score was calculated using scores and 
+      weights. mRNA-1273 was the most preferred vaccine in pre-authorization and 
+      BNT162b2 in post-authorization. We found that the mRNA vaccine had a good balance 
+      between the benefits and risks. Using this BR assessment, the benefit-risk 
+      profile of COVID-19 vaccines can be updated with cumulated data. It will 
+      contribute to building evidence for decision making by policy makers and health 
+      professionals.
+FAU - Son, Kyung-Hwa
+AU  - Son KH
+AD  - School of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea.
+FAU - Kwon, Sun-Hong
+AU  - Kwon SH
+AUID- ORCID: 0000-0002-1058-8392
+AD  - School of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea.
+FAU - Na, Hye-Jung
+AU  - Na HJ
+AD  - School of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea.
+FAU - Baek, Youngsuk
+AU  - Baek Y
+AD  - School of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea.
+FAU - Kim, Inok
+AU  - Kim I
+AD  - School of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea.
+FAU - Lee, Eui-Kyung
+AU  - Lee EK
+AUID- ORCID: 0000-0003-0601-7754
+AD  - School of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20221127
+PL  - Switzerland
+TA  - Vaccines (Basel)
+JT  - Vaccines
+JID - 101629355
+PMC - PMC9785565
+OTO - NOTNLM
+OT  - COVID-19 vaccine
+OT  - SARS-CoV-2
+OT  - multi-criteria decision analysis
+OT  - quantitative benefit-risk assessment
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/12/24 06:00
+MHDA- 2022/12/24 06:01
+PMCR- 2022/11/27
+CRDT- 2022/12/23 02:04
+PHST- 2022/10/17 00:00 [received]
+PHST- 2022/11/21 00:00 [revised]
+PHST- 2022/11/25 00:00 [accepted]
+PHST- 2022/12/23 02:04 [entrez]
+PHST- 2022/12/24 06:00 [pubmed]
+PHST- 2022/12/24 06:01 [medline]
+PHST- 2022/11/27 00:00 [pmc-release]
+AID - vaccines10122029 [pii]
+AID - vaccines-10-02029 [pii]
+AID - 10.3390/vaccines10122029 [doi]
+PST - epublish
+SO  - Vaccines (Basel). 2022 Nov 27;10(12):2029. doi: 10.3390/vaccines10122029.

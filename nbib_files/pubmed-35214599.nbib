@@ -1,0 +1,102 @@
+PMID- 35214599
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220301
+IS  - 2076-393X (Print)
+IS  - 2076-393X (Electronic)
+IS  - 2076-393X (Linking)
+VI  - 10
+IP  - 2
+DP  - 2022 Jan 18
+TI  - The Population-Wide Risk-Benefit Profile of Extending the Primary COVID-19 
+      Vaccine Course Compared with an mRNA Booster Dose Program.
+LID - 10.3390/vaccines10020140 [doi]
+LID - 140
+AB  - The vaccination program is reducing the burden of COVID-19. However, recently, 
+      COVID-19 infections have been increasing across Europe, providing evidence that 
+      vaccine efficacy is waning. Consequently, booster doses are required to restore 
+      immunity levels. However, the relative risk-benefit ratio of boosters, compared 
+      to pursuing a primary course in the unvaccinated population, remains uncertain. 
+      In this study, a susceptible-exposed-infectious-recovered (SEIR) transmission 
+      model of SARS-CoV-2 was used to investigate the impact of COVID-19 vaccine waning 
+      on disease burden, the benefit of a booster vaccine program compared to targeting 
+      the unvaccinated population, and the population-wide risk-benefit profile of 
+      vaccination. Our data demonstrates that the rate of vaccine efficacy waning has a 
+      significant impact on COVID-19 hospitalisations with the greatest effect in 
+      populations with lower vaccination coverage. There was greater benefit associated 
+      with a booster vaccination strategy compared to targeting the unvaccinated 
+      population, once >50% of the population had received their primary vaccination 
+      course. The population benefits of vaccination (reduced hospitalisations, 
+      long-COVID and deaths) outweighed the risks of myocarditis/pericarditis by an 
+      order of magnitude. Vaccination is important in ending the COVID-19 pandemic 
+      sooner, and the reduction in hospitalisations, death and long-COVID associated 
+      with vaccination significantly outweigh any risks. Despite these obvious benefits 
+      some people are vaccine reluctant, and as such remain unvaccinated. However, when 
+      most of a population have been vaccinated, a focus on a booster vaccine strategy 
+      for this group is likely to offer greater value, than targeting the proportion of 
+      the population who choose to remain unvaccinated.
+FAU - Shiri, Tinevimbo
+AU  - Shiri T
+AD  - Health Economics and Outcomes Research Ltd., Cardiff CF23 8RB, UK.
+FAU - Evans, Marc
+AU  - Evans M
+AD  - Diabetes Resource Centre, University Hospital Llandough, Cardiff CF64 2XX, UK.
+FAU - Talarico, Carla A
+AU  - Talarico CA
+AD  - Moderna, Inc., Cambridge, MA 02139, USA.
+FAU - Morgan, Angharad R
+AU  - Morgan AR
+AD  - Health Economics and Outcomes Research Ltd., Cardiff CF23 8RB, UK.
+FAU - Mussad, Maaz
+AU  - Mussad M
+AD  - Ashfield Healthcare on Behalf of Moderna, Ashby-de-la-Zouch LE65 1HW, UK.
+FAU - Buck, Philip O
+AU  - Buck PO
+AUID- ORCID: 0000-0002-3898-3669
+AD  - Moderna, Inc., Cambridge, MA 02139, USA.
+FAU - McEwan, Phil
+AU  - McEwan P
+AD  - Health Economics and Outcomes Research Ltd., Cardiff CF23 8RB, UK.
+FAU - Strain, William David
+AU  - Strain WD
+AUID- ORCID: 0000-0002-6826-418X
+AD  - Diabetes and Vascular Research Centre, University of Exeter Medical School, 
+      Exeter EX1 2HZ, UK.
+AD  - The Academic Department of Healthcare for Older Adults, Royal Devon and Exeter 
+      Hospital, Exeter EX2 5DW, UK.
+LA  - eng
+GR  - NA/Moderna Therapeutics (United States)/
+PT  - Journal Article
+DEP - 20220118
+PL  - Switzerland
+TA  - Vaccines (Basel)
+JT  - Vaccines
+JID - 101629355
+PMC - PMC8880242
+OTO - NOTNLM
+OT  - COVID-19
+OT  - boosters
+OT  - modelling
+OT  - population risk
+COIS- T.S., A.R.M. and P.M. are employees of Health Economics and Outcomes Research 
+      Ltd., Cardiff, UK. Health Economics and Outcomes Research Ltd. received fees from 
+      Moderna in relation to this study. C.A.T. and P.O.B. are employees of Moderna, 
+      Inc. and hold Moderna stocks/stock options. M.M. is an employee of Ashfield 
+      Healthcare on behalf of Moderna and does not hold stocks/ stock options. M.E. and 
+      W.D.S. have no conflicts of interest to declare.
+EDAT- 2022/02/27 06:00
+MHDA- 2022/02/27 06:01
+PMCR- 2022/01/18
+CRDT- 2022/02/26 01:03
+PHST- 2021/12/14 00:00 [received]
+PHST- 2022/01/05 00:00 [revised]
+PHST- 2022/01/14 00:00 [accepted]
+PHST- 2022/02/26 01:03 [entrez]
+PHST- 2022/02/27 06:00 [pubmed]
+PHST- 2022/02/27 06:01 [medline]
+PHST- 2022/01/18 00:00 [pmc-release]
+AID - vaccines10020140 [pii]
+AID - vaccines-10-00140 [pii]
+AID - 10.3390/vaccines10020140 [doi]
+PST - epublish
+SO  - Vaccines (Basel). 2022 Jan 18;10(2):140. doi: 10.3390/vaccines10020140.

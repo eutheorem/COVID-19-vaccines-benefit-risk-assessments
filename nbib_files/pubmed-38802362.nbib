@@ -1,0 +1,162 @@
+PMID- 38802362
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240527
+LR  - 20240711
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2024 May 27
+TI  - Safety outcomes following COVID-19 vaccination and infection in 5.1 million 
+      children in England.
+PG  - 3822
+LID - 10.1038/s41467-024-47745-z [doi]
+LID - 3822
+AB  - The risk-benefit profile of COVID-19 vaccination in children remains uncertain. A 
+      self-controlled case-series study was conducted using linked data of 5.1 million 
+      children in England to compare risks of hospitalisation from vaccine safety 
+      outcomes after COVID-19 vaccination and infection. In 5-11-year-olds, we found no 
+      increased risks of adverse events 1-42 days following vaccination with BNT162b2, 
+      mRNA-1273 or ChAdOX1. In 12-17-year-olds, we estimated 3 (95%CI 0-5) and 5 (95%CI 
+      3-6) additional cases of myocarditis per million following a first and second 
+      dose with BNT162b2, respectively. An additional 12 (95%CI 0-23) hospitalisations 
+      with epilepsy and 4 (95%CI 0-6) with demyelinating disease (in females only, 
+      mainly optic neuritis) were estimated per million following a second dose with 
+      BNT162b2. SARS-CoV-2 infection was associated with increased risks of 
+      hospitalisation from seven outcomes including multisystem inflammatory syndrome 
+      and myocarditis, but these risks were largely absent in those vaccinated prior to 
+      infection. We report a favourable safety profile of COVID-19 vaccination in 
+      under-18s.
+CI  - © 2024. The Author(s).
+FAU - Copland, Emma
+AU  - Copland E
+AUID- ORCID: 0000-0001-9280-5241
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+FAU - Patone, Martina
+AU  - Patone M
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+FAU - Saatci, Defne
+AU  - Saatci D
+AUID- ORCID: 0000-0002-2414-2906
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+FAU - Handunnetthi, Lahiru
+AU  - Handunnetthi L
+AD  - Centre for Human Genetics, University of Oxford, Oxford, UK.
+AD  - Department of Psychiatry, University of Oxford, Oxford, UK.
+FAU - Hirst, Jennifer
+AU  - Hirst J
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+FAU - Hunt, David P J
+AU  - Hunt DPJ
+AUID- ORCID: 0000-0003-4230-0207
+AD  - UK Dementia Research Institute, Centre for Clinical Brain Sciences, University of 
+      Edinburgh, Edinburgh, UK.
+FAU - Mills, Nicholas L
+AU  - Mills NL
+AUID- ORCID: 0000-0003-0533-7991
+AD  - BHF/University Centre for Cardiovascular Science, University of Edinburgh, 
+      Edinburgh, UK.
+AD  - Usher Institute, University of Edinburgh, Edinburgh, UK.
+FAU - Moss, Paul
+AU  - Moss P
+AUID- ORCID: 0000-0002-6895-1967
+AD  - Institute of Immunology and Immunotherapy, University of Birmingham, Birmingham, 
+      UK.
+FAU - Sheikh, Aziz
+AU  - Sheikh A
+AUID- ORCID: 0000-0001-7022-3056
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+AD  - Usher Institute, University of Edinburgh, Edinburgh, UK.
+FAU - Coupland, Carol A C
+AU  - Coupland CAC
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+AD  - Centre for Academic Primary Care, School of Medicine, University of Nottingham, 
+      Nottingham, UK.
+FAU - Harnden, Anthony
+AU  - Harnden A
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK.
+FAU - Robertson, Chris
+AU  - Robertson C
+AUID- ORCID: 0000-0001-6848-5241
+AD  - Department of Mathematics and Statistics, University of Strathclyde, Glasgow, UK.
+FAU - Hippisley-Cox, Julia
+AU  - Hippisley-Cox J
+AUID- ORCID: 0000-0002-2479-7283
+AD  - Nuffield Department of Primary Health Care Sciences, University of Oxford, 
+      Oxford, UK. julia.hippisley-cox@phc.ox.ac.uk.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+DEP - 20240527
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (BNT162 Vaccine)
+RN  - 0 (COVID-19 Vaccines)
+RN  - B5S3K2V0G8 (ChAdOx1 nCoV-19)
+RN  - EPK39PL4R4 (2019-nCoV Vaccine mRNA-1273)
+RN  - pediatric multisystem inflammatory disease, COVID-19 related
+SB  - IM
+EIN - Nat Commun. 2024 Jul 8;15(1):5723. doi: 10.1038/s41467-024-50151-0. PMID: 
+      38977699
+MH  - Humans
+MH  - *COVID-19/prevention & control/epidemiology/complications
+MH  - Child
+MH  - Female
+MH  - England/epidemiology
+MH  - Male
+MH  - *BNT162 Vaccine
+MH  - Child, Preschool
+MH  - Adolescent
+MH  - *SARS-CoV-2/immunology
+MH  - *COVID-19 Vaccines/adverse effects/administration & dosage
+MH  - *Hospitalization/statistics & numerical data
+MH  - *Vaccination/adverse effects
+MH  - *ChAdOx1 nCoV-19
+MH  - Myocarditis/epidemiology
+MH  - 2019-nCoV Vaccine mRNA-1273
+MH  - Systemic Inflammatory Response Syndrome/epidemiology
+MH  - Optic Neuritis/epidemiology
+MH  - Epilepsy/epidemiology
+PMC - PMC11130197
+COIS- J.H.C. reports grants from National Institute for Health Research (NIHR) 
+      Biomedical Research Centre, Oxford, John Fell Oxford University Press Research 
+      Fund, Cancer Research UK and Oxford Wellcome Institutional Strategic Support Fund 
+      and other research councils, during the conduct of the study outside the scope of 
+      this work. J.H.C. is founder and was shareholder until 9 Aug 2023 of ClinRisk 
+      Ltd, which produces open and closed source software to implement clinical risk 
+      algorithms (outside this work) into clinical computer systems. J.H.C. is an 
+      unpaid director of QResearch, a not-for-profit organisation which is a 
+      partnership between the University of Oxford and EMIS Health who supply the 
+      QResearch database used for this work and is a consultant for Endeavour Predict 
+      Ltd outside this work. A.S. serves on a number of UK and Scottish Government 
+      COVID-19 advisory groups and was a member of AstraZeneca’s Thrombotic 
+      Thrombocytopenic Taskforce; all roles are unremunerated. A.H. is Deputy Chair of 
+      the Joint Committee on Vaccination and Immunisation. D.H. serves on the UK 
+      Government Commission on Human Medicines P.M. has received speaker and advisory 
+      board fees from Moderna and Astra Zeneca. All other authors declare no competing 
+      interests related to this paper.
+EDAT- 2024/05/28 00:43
+MHDA- 2024/05/28 00:44
+PMCR- 2024/05/27
+CRDT- 2024/05/27 23:16
+PHST- 2023/06/17 00:00 [received]
+PHST- 2024/04/11 00:00 [accepted]
+PHST- 2024/05/28 00:44 [medline]
+PHST- 2024/05/28 00:43 [pubmed]
+PHST- 2024/05/27 23:16 [entrez]
+PHST- 2024/05/27 00:00 [pmc-release]
+AID - 10.1038/s41467-024-47745-z [pii]
+AID - 47745 [pii]
+AID - 10.1038/s41467-024-47745-z [doi]
+PST - epublish
+SO  - Nat Commun. 2024 May 27;15(1):3822. doi: 10.1038/s41467-024-47745-z.

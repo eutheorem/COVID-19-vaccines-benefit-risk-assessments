@@ -1,0 +1,100 @@
+PMID- 35156705
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220414
+LR  - 20240827
+IS  - 1365-2362 (Electronic)
+IS  - 0014-2972 (Print)
+IS  - 0014-2972 (Linking)
+VI  - 52
+IP  - 5
+DP  - 2022 May
+TI  - BNT162b2 Vaccine-Associated Myo/Pericarditis in Adolescents: A Stratified 
+      Risk-Benefit Analysis.
+PG  - e13759
+LID - 10.1111/eci.13759 [doi]
+LID - e13759
+AB  - BACKGROUND: Male patients ages 12-17 years have an elevated risk of mRNA 
+      vaccination-associated myo/pericarditis. A risk-benefit analysis of first and 
+      second doses of mRNA vaccination in adolescent boys by health status and history 
+      of SARS-CoV-2 infection has not been performed. METHODS: Using the Vaccine 
+      Adverse Event Reporting System (VAERS), we identified BNT162b2 [Pfizer-BioNTech] 
+      myo/pericarditis occurrence according to CDC criteria. Main outcomes were as 
+      follows: 1) post-vaccination myo/pericarditis crude incidence in adolescents aged 
+      12-15 and 16-17; and 2) two risk-benefit analyses by age, sex, comorbidity, 
+      variant and history of infection. RESULTS: Cases of myo/pericarditis (n = 253) 
+      included 129 after dose 1 and 124 after dose 2; 86.9% were hospitalized. 
+      Incidence per million after dose two in male patients aged 12-15 and 16-17 was 
+      162.2 and 93.0, respectively. Weighing post-vaccination myo/pericarditis against 
+      COVID-19 hospitalization during delta, our risk-benefit analysis suggests that 
+      among 12-17-year-olds, two-dose vaccination was uniformly favourable only in 
+      nonimmune girls with a comorbidity. In boys with prior infection and no 
+      comorbidities, even one dose carried more risk than benefit according to 
+      international estimates. In the setting of omicron, one dose may be protective in 
+      nonimmune children, but dose two does not appear to confer additional benefit at 
+      a population level. CONCLUSIONS: Our findings strongly support individualized 
+      paediatric COVID-19 vaccination strategies which weigh protection against severe 
+      disease vs. risks of vaccine-associated myo/pericarditis. Research is needed into 
+      the nature and implications of this adverse effect as well as immunization 
+      strategies which reduce harms in this overall low-risk cohort.
+CI  - © 2022 Stichting European Society for Clinical Investigation Journal Foundation. 
+      Published by John Wiley & Sons Ltd.
+FAU - Krug, Allison
+AU  - Krug A
+AUID- ORCID: 0000-0002-8912-264X
+AD  - Artemis Biomedical Communications, LLC, Virginia Beach, Virginia, USA.
+FAU - Stevenson, Josh
+AU  - Stevenson J
+AD  - Truth in Data, LLC, Nashville, Tennessee, USA.
+FAU - Høeg, Tracy Beth
+AU  - Høeg TB
+AD  - University of California, Davis, Sacramento, California, USA.
+AD  - Sierra Nevada Memorial Hospital, Grass Valley, California, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220304
+PL  - England
+TA  - Eur J Clin Invest
+JT  - European journal of clinical investigation
+JID - 0245331
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (RNA, Messenger)
+RN  - N38TVC63NU (BNT162 Vaccine)
+SB  - IM
+CIN - Eur J Clin Invest. 2022 Aug;52(8):e13780. doi: 10.1111/eci.13780. PMID: 35342934
+MH  - Adolescent
+MH  - BNT162 Vaccine
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - COVID-19 Vaccines/adverse effects
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - *Pericarditis/epidemiology
+MH  - RNA, Messenger
+MH  - SARS-CoV-2
+PMC - PMC9111575
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - drug-related adverse reactions
+OT  - myocarditis
+OT  - paediatrics
+OT  - vaccination
+COIS- We declare no conflict of interest.
+EDAT- 2022/02/15 06:00
+MHDA- 2022/04/15 06:00
+PMCR- 2022/03/04
+CRDT- 2022/02/14 09:17
+PHST- 2022/02/01 00:00 [revised]
+PHST- 2021/12/30 00:00 [received]
+PHST- 2022/02/09 00:00 [accepted]
+PHST- 2022/02/15 06:00 [pubmed]
+PHST- 2022/04/15 06:00 [medline]
+PHST- 2022/02/14 09:17 [entrez]
+PHST- 2022/03/04 00:00 [pmc-release]
+AID - ECI13759 [pii]
+AID - 10.1111/eci.13759 [doi]
+PST - ppublish
+SO  - Eur J Clin Invest. 2022 May;52(5):e13759. doi: 10.1111/eci.13759. Epub 2022 Mar 
+      4.

@@ -1,0 +1,122 @@
+PMID- 35370016
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220418
+LR  - 20240909
+IS  - 1873-2518 (Electronic)
+IS  - 0264-410X (Print)
+IS  - 0264-410X (Linking)
+VI  - 40
+IP  - 19
+DP  - 2022 Apr 26
+TI  - Benefit-risk assessment of COVID-19 vaccine, mRNA (Comirnaty) for age 
+      16-29 years.
+PG  - 2781-2789
+LID - S0264-410X(22)00329-2 [pii]
+LID - 10.1016/j.vaccine.2022.03.030 [doi]
+AB  - Since authorization of the Pfizer-BioNTech COVID-19 Vaccine, mRNA (Comirnaty), 
+      real-world evidence has indicated the vaccines are effective in preventing 
+      COVID-19 cases and related hospitalizations and deaths. However, increased cases 
+      of myocarditis/pericarditis have been reported in the United States associated 
+      with vaccination, particularly in adolescents and young adults. FDA conducted a 
+      benefit-risk assessment to determine whether the benefits of vaccination outweigh 
+      the risks among various age (16-17, 18-24, 25-29) and sex (M/F) subgroups being 
+      considered for approved use of the vaccine. We conducted a simulation study with 
+      sensitivity analysis of the benefits and risks of the vaccine across possible 
+      pandemic scenarios. The model results show benefits outweigh the risks for all 
+      scenarios including the high-risk subgroup, males 16-17 years old. Our worst-case 
+      scenario used sex and age subgroup-specific incidences for COVID-19 cases (47-98 
+      per million per day) and hospitalizations (1-4 per million per day) which are the 
+      US COVID-19 incidences as of July 10, 2021, vaccine efficacy of 70% against 
+      COVID-19 cases and 80% against hospitalization, and unlikely, pessimistic, 
+      non-zero vaccine-attributable myocarditis death rate. For males 16-17 years old, 
+      the model predicts prevented COVID cases, hospitalizations, ICUs, and deaths of 
+      13577, 127, 41, and 1, respectively; while the predicted ranges for excess 
+      myocarditis/pericarditis cases, hospitalizations, and deaths attributable to the 
+      vaccine are [98-196], [98-196], and 0, respectively, for the worst-case scenario. 
+      Considering the different clinical implications of hospitalization due to 
+      COVID-19 infection versus vaccine-attributable myocarditis/pericarditis cases, we 
+      determine the benefits still outweigh the risks even for this high-risk subgroup. 
+      Our results demonstrate that the benefits of the vaccine outweigh its risks for 
+      all age and sex subgroups we analyze in this study. Uncertainties exist in this 
+      assessment as both benefits and risks of vaccination may change with the 
+      continuing evolution of the pandemic.
+CI  - Copyright © 2022. Published by Elsevier Ltd.
+FAU - Funk, Patrick R
+AU  - Funk PR
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Yogurtcu, Osman N
+AU  - Yogurtcu ON
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Forshee, Richard A
+AU  - Forshee RA
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Anderson, Steve A
+AU  - Anderson SA
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA.
+FAU - Marks, Peter W
+AU  - Marks PW
+AD  - Office of Vaccines Research and Review, Center for Biologics Evaluation and 
+      Research, US FDA, Silver Spring, MD, USA; Office of the Center Director, Center 
+      for Biologics Evaluation and Research, US FDA, Silver Spring, MD, USA.
+FAU - Yang, Hong
+AU  - Yang H
+AD  - Office of Biostatistics and Pharmacovigilance, Center for Biologics Evaluation 
+      and Research, US FDA, Silver Spring, MD, USA. Electronic address: 
+      Hong.Yang@fda.hhs.gov.
+LA  - eng
+PT  - Journal Article
+DEP - 20220328
+PL  - Netherlands
+TA  - Vaccine
+JT  - Vaccine
+JID - 8406899
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (RNA, Messenger)
+RN  - N38TVC63NU (BNT162 Vaccine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - BNT162 Vaccine
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - COVID-19 Vaccines/adverse effects
+MH  - Humans
+MH  - Male
+MH  - *Myocarditis/epidemiology/etiology
+MH  - *Pericarditis/epidemiology
+MH  - RNA, Messenger
+MH  - Risk Assessment
+MH  - United States/epidemiology
+MH  - Young Adult
+PMC - PMC8958165
+OTO - NOTNLM
+OT  - Adolescent
+OT  - Benefit-risk analysis
+OT  - COVID-19 vaccine
+OT  - CVmRNA
+OT  - FDA
+OT  - Myocarditis
+OT  - Pericarditis
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2022/04/05 06:00
+MHDA- 2022/04/19 06:00
+PMCR- 2022/03/28
+CRDT- 2022/04/04 05:25
+PHST- 2022/01/12 00:00 [received]
+PHST- 2022/03/10 00:00 [revised]
+PHST- 2022/03/12 00:00 [accepted]
+PHST- 2022/04/05 06:00 [pubmed]
+PHST- 2022/04/19 06:00 [medline]
+PHST- 2022/04/04 05:25 [entrez]
+PHST- 2022/03/28 00:00 [pmc-release]
+AID - S0264-410X(22)00329-2 [pii]
+AID - 10.1016/j.vaccine.2022.03.030 [doi]
+PST - ppublish
+SO  - Vaccine. 2022 Apr 26;40(19):2781-2789. doi: 10.1016/j.vaccine.2022.03.030. Epub 
+      2022 Mar 28.

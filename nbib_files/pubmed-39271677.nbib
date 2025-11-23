@@ -1,0 +1,75 @@
+PMID- 39271677
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240917
+IS  - 2059-0105 (Electronic)
+IS  - 2059-0105 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2024 Sep 13
+TI  - Risk benefit analysis to evaluate risk of thromboembolic events after mRNA 
+      COVID-19 vaccination and COVID-19.
+PG  - 166
+LID - 10.1038/s41541-024-00960-7 [doi]
+LID - 166
+AB  - We compared the risks and benefits of COVID-19 vaccines using a causal pathway 
+      analysis to weigh up possible risk factors of thromboembolic events 
+      post-vaccination. The self-controlled case series (SCCS) method examined the 
+      association between thromboembolic events and vaccination while a case-control 
+      study assessed the association between thromboembolic events and COVID-19, 
+      addressing under-reported infection data issues. The net vaccine effect was 
+      estimated using results from SCCS and case-control studies. We used electronic 
+      health record data from Corewell Health (16,640 subjects in SCCS and 106,143 in 
+      case-control). We found increased risks of thromboembolic events post-vaccination 
+      (incidence rate ratio: 1.19, 95% CI: [1.08, 1.31] after the first dose; 1.22, 95% 
+      CI: [1.11, 1.34] after the second dose). Vaccination attenuated 
+      infection-associated thromboembolic risks (odds ratio: 4.65, 95% CI: [4.18, 5.17] 
+      in unvaccinated vs 2.77, 95% CI: [2.40, 3.24] in vaccinated). After accounting 
+      for vaccine efficacy and protection against infection-associated thromboembolic 
+      events, vaccination decreases thromboembolic event risk, especially during high 
+      infection rate periods.
+CI  - © 2024. The Author(s).
+FAU - Tran, Huong N Q
+AU  - Tran HNQ
+AUID- ORCID: 0000-0003-3828-3862
+AD  - Division of Biostatistics & Health Informatics, Corewell Health Research 
+      Institute, Royal Oak, MI, USA.
+FAU - Risk, Malcolm
+AU  - Risk M
+AD  - Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA.
+FAU - Nair, Girish B
+AU  - Nair GB
+AD  - William Beaumont University Hospital, Corewell Health East, Royal Oak, MI, USA.
+FAU - Zhao, Lili
+AU  - Zhao L
+AD  - Division of Biostatistics, Department of Preventive Medicine, Northwestern 
+      University, Chicago, IL, USA. lili.zhao@northwestern.edu.
+LA  - eng
+GR  - R01 AI158543/AI/NIAID NIH HHS/United States
+GR  - R01AI158543/Foundation for the National Institutes of Health (Foundation for the 
+      National Institutes of Health, Inc.)/
+PT  - Journal Article
+DEP - 20240913
+PL  - England
+TA  - NPJ Vaccines
+JT  - NPJ vaccines
+JID - 101699863
+UOF - Res Sq. 2024 Jun 07:rs.3.rs-4378029. doi: 10.21203/rs.3.rs-4378029/v1. PMID: 
+      38883715
+PMC - PMC11399239
+COIS- The authors declare no competing interests.
+EDAT- 2024/09/14 10:46
+MHDA- 2024/09/14 10:47
+PMCR- 2024/09/13
+CRDT- 2024/09/13 23:26
+PHST- 2024/05/06 00:00 [received]
+PHST- 2024/08/29 00:00 [accepted]
+PHST- 2024/09/14 10:47 [medline]
+PHST- 2024/09/14 10:46 [pubmed]
+PHST- 2024/09/13 23:26 [entrez]
+PHST- 2024/09/13 00:00 [pmc-release]
+AID - 10.1038/s41541-024-00960-7 [pii]
+AID - 960 [pii]
+AID - 10.1038/s41541-024-00960-7 [doi]
+PST - epublish
+SO  - NPJ Vaccines. 2024 Sep 13;9(1):166. doi: 10.1038/s41541-024-00960-7.

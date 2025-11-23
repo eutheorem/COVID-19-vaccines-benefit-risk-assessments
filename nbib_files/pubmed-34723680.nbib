@@ -1,0 +1,155 @@
+PMID- 34723680
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211203
+LR  - 20250530
+IS  - 1758-1095 (Electronic)
+IS  - 0141-0768 (Print)
+IS  - 0141-0768 (Linking)
+VI  - 114
+IP  - 11
+DP  - 2021 Nov
+TI  - Vaccinating adolescents against SARS-CoV-2 in England: a risk-benefit analysis.
+PG  - 513-524
+LID - 10.1177/01410768211052589 [doi]
+AB  - OBJECTIVE: To offer a quantitative risk-benefit analysis of two doses of 
+      SARS-CoV-2 vaccination among adolescents in England. SETTING: England. DESIGN: 
+      Following the risk-benefit analysis methodology carried out by the US Centers for 
+      Disease Control, we calculated historical rates of hospital admission, Intensive 
+      Care Unit admission and death for ascertained SARS-CoV-2 cases in children aged 
+      12-17 in England. We then used these rates alongside a range of estimates for 
+      incidence of long COVID, vaccine efficacy and vaccine-induced myocarditis, to 
+      estimate hospital and Intensive Care Unit admissions, deaths and cases of long 
+      COVID over a period of 16 weeks under assumptions of high and low case incidence. 
+      PARTICIPANTS: All 12-17 year olds with a record of confirmed SARS-CoV-2 infection 
+      in England between 1 July 2020 and 31 March 2021 using national linked electronic 
+      health records, accessed through the British Heart Foundation Data Science 
+      Centre. MAIN OUTCOME MEASURES: Hospitalisations, Intensive Care Unit admissions, 
+      deaths and cases of long COVID averted by vaccinating all 12-17 year olds in 
+      England over a 16-week period under different estimates of future case incidence. 
+      RESULTS: At high future case incidence of 1000/100,000 population/week over 16 
+      weeks, vaccination could avert 4430 hospital admissions and 36 deaths over 16 
+      weeks. At the low incidence of 50/100,000/week, vaccination could avert 70 
+      hospital admissions and two deaths over 16 weeks. The benefit of vaccination in 
+      terms of hospitalisations in adolescents outweighs risks unless case rates are 
+      sustainably very low (below 30/100,000 teenagers/week). Benefit of vaccination 
+      exists at any case rate for the outcomes of death and long COVID, since neither 
+      have been associated with vaccination to date. CONCLUSIONS: Given the current (as 
+      at 15 September 2021) high case rates (680/100,000 population/week in 10-19 year 
+      olds) in England, our findings support vaccination of adolescents against 
+      SARS-CoV2.
+FAU - Gurdasani, Deepti
+AU  - Gurdasani D
+AD  - Queen Mary University of London, London E1 4NS, UK.
+FAU - Bhatt, Samir
+AU  - Bhatt S
+AD  - Imperial College London, London SW7 2BX, UK.
+FAU - Costello, Anthony
+AU  - Costello A
+AD  - University College London, London WC1E 6BT, UK.
+FAU - Denaxas, Spiros
+AU  - Denaxas S
+AD  - University College London, London WC1E 6BT, UK.
+FAU - Flaxman, Seth
+AU  - Flaxman S
+AD  - Imperial College London, London SW7 2BX, UK.
+FAU - Greenhalgh, Trisha
+AU  - Greenhalgh T
+AD  - University of Oxford, Oxford OX1 2JD, UK.
+FAU - Griffin, Stephen
+AU  - Griffin S
+AD  - University of Leeds, Leeds LS2 9JT, UK.
+FAU - Hyde, Zoë
+AU  - Hyde Z
+AUID- ORCID: 0000-0002-5985-1729
+AD  - University of Western Australia, Crawley WA 6009, Australia.
+FAU - Katzourakis, Aris
+AU  - Katzourakis A
+AD  - University of Oxford, Oxford OX1 2JD, UK.
+FAU - McKee, Martin
+AU  - McKee M
+AUID- ORCID: 0000-0002-0121-9683
+AD  - London School of Hygiene and Tropical Medicine, London WC1E 7HT, UK.
+FAU - Michie, Susan
+AU  - Michie S
+AD  - University College London, London WC1E 6BT, UK.
+FAU - Ratmann, Oliver
+AU  - Ratmann O
+AD  - Imperial College London, London SW7 2BX, UK.
+FAU - Reicher, Stephen
+AU  - Reicher S
+AD  - University of St. Andrews, St. Andrews KY16 9AJ, UK.
+FAU - Scally, Gabriel
+AU  - Scally G
+AD  - University of Bristol, Bristol BS8 1TH, UK.
+FAU - Tomlinson, Christopher
+AU  - Tomlinson C
+AUID- ORCID: 0000-0002-0903-5395
+AD  - University College London, London WC1E 6BT, UK.
+FAU - Yates, Christian
+AU  - Yates C
+AD  - University of Bath, Bath BA2 7AY, UK.
+FAU - Ziauddeen, Hisham
+AU  - Ziauddeen H
+AD  - University of Cambridge, Cambridge CB2 1TN, UK.
+FAU - Pagel, Christina
+AU  - Pagel C
+AD  - University College London, London WC1E 6BT, UK.
+LA  - eng
+GR  - MC_PC_19012/MRC_/Medical Research Council/United Kingdom
+GR  - MR/R015600/1/MRC_/Medical Research Council/United Kingdom
+GR  - MR/S003711/1/MRC_/Medical Research Council/United Kingdom
+GR  - MR/S003711/2/MRC_/Medical Research Council/United Kingdom
+GR  - MR/K006584/1/MRC_/Medical Research Council/United Kingdom
+GR  - MR/V038109/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20211101
+PL  - England
+TA  - J R Soc Med
+JT  - Journal of the Royal Society of Medicine
+JID - 7802879
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Adolescent
+MH  - Adolescent Health
+MH  - Age Factors
+MH  - COVID-19/complications/mortality/*prevention & control/therapy
+MH  - *COVID-19 Vaccines/adverse effects
+MH  - Child
+MH  - Child Health
+MH  - England
+MH  - Female
+MH  - *Hospitalization
+MH  - Humans
+MH  - Incidence
+MH  - *Intensive Care Units
+MH  - Male
+MH  - Myocarditis/etiology
+MH  - *Public Health
+MH  - Risk
+MH  - SARS-CoV-2
+MH  - *Severity of Illness Index
+MH  - Treatment Outcome
+MH  - *Vaccination/adverse effects
+MH  - Post-Acute COVID-19 Syndrome
+PMC - PMC8649477
+OTO - NOTNLM
+OT  - Clinical
+OT  - evidence-based practice
+OT  - non-clinical
+OT  - paediatrics
+OT  - public health
+OT  - vaccination programmes
+EDAT- 2021/11/02 06:00
+MHDA- 2021/12/15 06:00
+PMCR- 2021/11/01
+CRDT- 2021/11/01 16:34
+PHST- 2021/11/02 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/11/01 16:34 [entrez]
+PHST- 2021/11/01 00:00 [pmc-release]
+AID - 10.1177_01410768211052589 [pii]
+AID - 10.1177/01410768211052589 [doi]
+PST - ppublish
+SO  - J R Soc Med. 2021 Nov;114(11):513-524. doi: 10.1177/01410768211052589. Epub 2021 
+      Nov 1.

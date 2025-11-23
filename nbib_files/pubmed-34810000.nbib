@@ -1,0 +1,131 @@
+PMID- 34810000
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211222
+LR  - 20221217
+IS  - 1873-2518 (Electronic)
+IS  - 0264-410X (Print)
+IS  - 0264-410X (Linking)
+VI  - 39
+IP  - 51
+DP  - 2021 Dec 17
+TI  - Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a 
+      Bayesian network modelling framework.
+PG  - 7429-7440
+LID - S0264-410X(21)01428-6 [pii]
+LID - 10.1016/j.vaccine.2021.10.079 [doi]
+AB  - Thrombosis and Thrombocytopenia Syndrome (TTS) has been associated with the 
+      AstraZencea (AZ) COVID-19 vaccine (Vaxzevria). Australia has reported low TTS 
+      incidence of < 3/100,000 after the first dose, with case fatality rate (CFR) of 
+      5-6%. Risk-benefit analysis of vaccination has been challenging because of 
+      rapidly evolving data, changing levels of transmission, and variation in rates of 
+      TTS, COVID-19, and CFR between age groups. We aim to optimise risk-benefit 
+      analysis by developing a model that enables inputs to be updated rapidly as 
+      evidence evolves. A Bayesian network was used to integrate local and 
+      international data, government reports, published literature and expert opinion. 
+      The model estimates probabilities of outcomes under different scenarios of age, 
+      sex, low/medium/high transmission (0.05%/0.45%/5.76% of population infected over 
+      6 months), SARS-CoV-2 variant, vaccine doses, and vaccine effectiveness. We used 
+      the model to compare estimated deaths from AZ vaccine-associated TTS with i) 
+      COVID-19 deaths prevented under different scenarios, and ii) deaths from COVID-19 
+      related atypical severe blood clots (cerebral venous sinus thrombosis & portal 
+      vein thrombosis). For a million people aged ≥ 70 years where 70% received first 
+      dose and 35% received two doses, our model estimated < 1 death from TTS, 25 
+      deaths prevented under low transmission, and > 3000 deaths prevented under high 
+      transmission. Risks versus benefits varied significantly between age groups and 
+      transmission levels. Under high transmission, deaths prevented by AZ vaccine far 
+      exceed deaths from TTS (by 8 to > 4500 times depending on age). Probability of 
+      dying from COVID-related atypical severe blood clots was 58-126 times higher 
+      (depending on age and sex) than dying from TTS. To our knowledge, this is the 
+      first example of the use of Bayesian networks for risk-benefit analysis for a 
+      COVID-19 vaccine. The model can be rapidly updated to incorporate new data, 
+      adapted for other countries, extended to other outcomes (e.g., severe disease), 
+      or used for other vaccines.
+CI  - Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Lau, Colleen L
+AU  - Lau CL
+AD  - School of Public Health, Faculty of Medicine, The University of Queensland, 
+      Brisbane, Queensland, Australia. Electronic address: colleen.lau@uq.edu.au.
+FAU - Mayfield, Helen J
+AU  - Mayfield HJ
+AD  - School of Public Health, Faculty of Medicine, The University of Queensland, 
+      Brisbane, Queensland, Australia.
+FAU - Sinclair, Jane E
+AU  - Sinclair JE
+AD  - School of Chemistry and Molecular Biosciences, Faculty of Science, The University 
+      of Queensland, Brisbane, Queensland, Australia.
+FAU - Brown, Samuel J
+AU  - Brown SJ
+AD  - School of Chemistry and Molecular Biosciences, Faculty of Science, The University 
+      of Queensland, Brisbane, Queensland, Australia.
+FAU - Waller, Michael
+AU  - Waller M
+AD  - School of Public Health, Faculty of Medicine, The University of Queensland, 
+      Brisbane, Queensland, Australia.
+FAU - Enjeti, Anoop K
+AU  - Enjeti AK
+AD  - School of Medicine and Public Health, University of Newcastle, Callaghan, NSW, 
+      Australia; Calvary Mater Newcastle Hospital, Waratah, NSW, Australia; NSW Health 
+      Pathology John Hunter Hospital, New Lambton Heights, NSW, Australia.
+FAU - Baird, Andrew
+AU  - Baird A
+AD  - St Kilda Medical Group, St Kilda, Victoria, Australia.
+FAU - Short, Kirsty R
+AU  - Short KR
+AD  - School of Chemistry and Molecular Biosciences, Faculty of Science, The University 
+      of Queensland, Brisbane, Queensland, Australia.
+FAU - Mengersen, Kerrie
+AU  - Mengersen K
+AD  - School of Mathematical Sciences, Faculty of Science, Queensland University of 
+      Technology, Brisbane, Queensland, Australia.
+FAU - Litt, John
+AU  - Litt J
+AD  - Discipline of General Practice, College of Medicine and Public Health, Flinders 
+      University, Adelaide, South Australia, Australia; Scientific Advisory Committee, 
+      Immunisation Coalition, Melbourne, Victoria, Australia.
+LA  - eng
+GR  - MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211104
+PL  - Netherlands
+TA  - Vaccine
+JT  - Vaccine
+JID - 8406899
+RN  - 0 (COVID-19 Vaccines)
+RN  - SARS-CoV-2 variants
+SB  - IM
+MH  - Bayes Theorem
+MH  - *COVID-19
+MH  - COVID-19 Vaccines
+MH  - Humans
+MH  - Infant, Newborn
+MH  - *SARS-CoV-2
+MH  - Vaccine Efficacy
+PMC - PMC8566665
+OTO - NOTNLM
+OT  - Adverse events
+OT  - Bayesian networks
+OT  - Model
+OT  - SARS-CoV-2
+OT  - Thrombosis/thrombocytopenia syndrome
+OT  - Vaccination
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/11/24 06:00
+MHDA- 2021/12/24 06:00
+PMCR- 2021/11/04
+CRDT- 2021/11/23 05:46
+PHST- 2021/09/29 00:00 [received]
+PHST- 2021/10/26 00:00 [revised]
+PHST- 2021/10/28 00:00 [accepted]
+PHST- 2021/11/24 06:00 [pubmed]
+PHST- 2021/12/24 06:00 [medline]
+PHST- 2021/11/23 05:46 [entrez]
+PHST- 2021/11/04 00:00 [pmc-release]
+AID - S0264-410X(21)01428-6 [pii]
+AID - 10.1016/j.vaccine.2021.10.079 [doi]
+PST - ppublish
+SO  - Vaccine. 2021 Dec 17;39(51):7429-7440. doi: 10.1016/j.vaccine.2021.10.079. Epub 
+      2021 Nov 4.

@@ -1,0 +1,95 @@
+PMID- 36920222
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230724
+LR  - 20240724
+IS  - 1476-6256 (Electronic)
+IS  - 0002-9262 (Linking)
+VI  - 192
+IP  - 7
+DP  - 2023 Jul 7
+TI  - Risk and Benefit of mRNA COVID-19 Vaccines for the Omicron Variant by Age, Sex, 
+      and Presence of Comorbidity: A Quality-Adjusted Life Years Analysis.
+PG  - 1137-1147
+LID - 10.1093/aje/kwad058 [doi]
+AB  - The development of the mutant omicron variant of severe acute respiratory 
+      syndrome coronavirus 2 (SARS-CoV-2) during the coronavirus disease 2019 
+      (COVID-19) pandemic raised the importance of reevaluating the risk and benefit of 
+      COVID-19 vaccines. With a decision tree model, we calculated the benefit-risk 
+      ratio and the benefit-risk difference of receiving monovalent messenger RNA 
+      (mRNA) COVID-19 vaccine (primary 2 doses, a third dose, and a fourth dose) in the 
+      4-5 months after vaccination using quality-adjusted life years. The analysis was 
+      stratified by age, sex, and the presence of comorbidity. Evidence from 
+      peer-reviewed publications and gray literature was reviewed on September 16, 
+      2022, to inform the study. Benefit-risk ratios for receipt of the BNT162b2 
+      vaccine (Pfizer-BioNTech) ranged from 6.8 for males aged 12-17 years without 
+      comorbidity for the primary doses to 221.3 for females aged ≥65 years with 
+      comorbidity for the third dose. The benefit-risk ratios for receipt of the 
+      mRNA-1273 vaccine (Moderna) ranged from 7.2 for males aged 18-29 years without 
+      comorbidity for the primary doses to 101.4 for females aged ≥65 years with 
+      comorbidity for the third dose. In all scenarios of the one-way sensitivity 
+      analysis, the benefit-risk ratios were more than 1, irrespective of age, sex, 
+      comorbidity status, and type of vaccine, for both primary and booster doses. The 
+      benefits of mRNA COVID-19 vaccines in protecting against the omicron variant 
+      outweigh the risks, irrespective of age, sex, and comorbidity.
+CI  - © The Author(s) 2023. Published by Oxford University Press on behalf of the Johns 
+      Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, 
+      please e-mail: journals.permissions@oup.com.
+FAU - Kitano, Taito
+AU  - Kitano T
+FAU - Thompson, David A
+AU  - Thompson DA
+FAU - Engineer, Lilly
+AU  - Engineer L
+FAU - Dudley, Matthew Z
+AU  - Dudley MZ
+FAU - Salmon, Daniel A
+AU  - Salmon DA
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Am J Epidemiol
+JT  - American journal of epidemiology
+JID - 7910653
+RN  - EPK39PL4R4 (2019-nCoV Vaccine mRNA-1273)
+RN  - 0 (BNT162 Vaccine)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (RNA, Messenger)
+RN  - SARS-CoV-2 variants
+SB  - IM
+CIN - Am J Epidemiol. 2023 Jun 2;192(6):1031. doi: 10.1093/aje/kwad069. PMID: 36958820
+CIN - Am J Epidemiol. 2024 Jun 3;193(6):930-931. doi: 10.1093/aje/kwad238. PMID: 
+      38055629
+CIN - Am J Epidemiol. 2024 Jun 3;193(6):928-929. doi: 10.1093/aje/kwad242. PMID: 
+      38100362
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - 2019-nCoV Vaccine mRNA-1273
+MH  - BNT162 Vaccine
+MH  - Comorbidity
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - *COVID-19 Vaccines/adverse effects
+MH  - Quality-Adjusted Life Years
+MH  - RNA, Messenger
+MH  - SARS-CoV-2/genetics
+OTO - NOTNLM
+OT  - COVID-19
+OT  - coronavirus disease 2019
+OT  - quality-adjusted life years
+OT  - risk
+OT  - safety
+OT  - vaccines
+EDAT- 2023/03/16 06:00
+MHDA- 2023/07/10 06:42
+CRDT- 2023/03/15 10:06
+PHST- 2022/06/08 00:00 [received]
+PHST- 2023/02/07 00:00 [revised]
+PHST- 2023/03/10 00:00 [accepted]
+PHST- 2023/07/10 06:42 [medline]
+PHST- 2023/03/16 06:00 [pubmed]
+PHST- 2023/03/15 10:06 [entrez]
+AID - 7077451 [pii]
+AID - 10.1093/aje/kwad058 [doi]
+PST - ppublish
+SO  - Am J Epidemiol. 2023 Jul 7;192(7):1137-1147. doi: 10.1093/aje/kwad058.

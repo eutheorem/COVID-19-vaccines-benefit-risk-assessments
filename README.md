@@ -1,6 +1,6 @@
 # Summary
 
-This repository is for storing and distributing supplementary material for the article "How safe were COVID-19 vaccines? - Summary of published research" published at eutheorem.com. The repository contains literature metadata, R code, csv files that contain publication data and benefit-risk balance in the publications, and figures. 
+This repository is for storing and distributing supplementary material for the article "How safe were COVID-19 vaccines? - Summary of published research" published at https://eutheorem.com/2025/covid-19-vaccines/. The repository contains literature metadata, R code, csv files that contain publication data and benefit-risk balance in the publications, and figures. 
 
 # Folders and files
 

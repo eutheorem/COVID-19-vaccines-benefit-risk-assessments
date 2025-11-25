@@ -49,6 +49,3 @@ A csv file of summary of publications used in this analysis. The file lists 37 p
 
 **include**: The value is FALSE if the publication is not available anymore, is redundant, or does not provide benefit-risk balance. Publications with FALSE value were excluded from our analysis.  
 
-
-# COVID-19-vaccine-benefit-risk-assessments
-# COVID-19-vaccines-benefit-risk-assessments

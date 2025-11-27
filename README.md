@@ -17,7 +17,22 @@ The folder contains figures and supplementary figures.
 ## nbib_files/ 
 Publication metadata in nbib file format. 
 
-## BR_balance.csv 
+## costom_revtools.R
+R code of customized functions of revtools. revtools functions do not work on newer versions of R, and on long publication metadata. Changes are made to overcome these limitations.
+
+## COVID_vaccination.R
+R code for the analysis and drawing the figures. 
+
+## Table_S1_publications.csv
+A csv file of summary of publications used in this analysis. The file lists 37 publications that Newbern et al., 2025 analyzed, plus six additional publications that we identified. Note that the file was created to help us picture the overview of the publications and determine how to analyze the publications. Because of this, most columns are irrelevant to the analysis performed on R.  
+
+*Important columns* 
+
+**reference_number**: Matches reference_number in the BR_balance.csv. 
+
+**include**: The value is FALSE if the publication is not available anymore, is redundant, or does not provide benefit-risk balance. Publications with FALSE value were excluded from our analysis.  
+
+## Table_S2_BR_balance.csv 
 A csv file of summary of benefit-risk balance of COVID-19 vaccines in the publications. Each row contains an aggregated assessment on a sex / age groups. 
 
 *Important columns*
@@ -33,19 +48,3 @@ A csv file of summary of benefit-risk balance of COVID-19 vaccines in the public
 **BR_high, BR_low**: Showing the range of benefit-risk balance in aggregated assessments. 
 
 **booster**: Details of the booster dose (e.g. coverage) if applicable. 
-
-## costom_revtools.R
-R code of customized functions of revtools. revtools functions do not work on newer versions of R, and on long publication metadata. Changes are made to overcome these limitations.
-
-## COVID_vaccination.R
-R code for the analysis and drawing the figures. 
-
-## publications.csv
-A csv file of summary of publications used in this analysis. The file lists 37 publications that Newbern et al., 2025 analyzed, plus six additional publications that we identified. Note that the file was created to help us picture the overview of the publications and determine how to analyze the publications. Because of this, most columns are irrelevant to the analysis performed on R.  
-
-*Important columns* 
-
-**reference_number**: Matches reference_number in the BR_balance.csv. 
-
-**include**: The value is FALSE if the publication is not available anymore, is redundant, or does not provide benefit-risk balance. Publications with FALSE value were excluded from our analysis.  
-

@@ -154,9 +154,9 @@ countries <- modified_bib_data %>%
   pivot_wider(names_from = country_no, values_from = country) 
 
 ### Loading a summary file of studies. 
-publications <- read.csv("publications.csv") %>% 
+publications <- read.csv("Table_S1_publications.csv") %>% 
   # The pub_label column is excluded, because the column was originally made by the following code and 
-  # and included in the publications.csv.
+  # and included in the Table_S1_publications.csv.
   select(!pub_label)
 
 ### Adding publication label (e.g., XXX et al., 2021), research group, and country columns to the summary file. 
@@ -191,7 +191,7 @@ combined_bib <- left_join(publications,
 ###
 
 ### Loading a summary file of benefit-risk assessments
-BR_data <- read.csv("BR_balance.csv") 
+BR_data <- read.csv("Table_S2_BR_balance.csv") 
 
 ### Combining the benefit-risk assessment summary and the bombined bibliographic data.
 combined_BR <- combined_bib %>% 

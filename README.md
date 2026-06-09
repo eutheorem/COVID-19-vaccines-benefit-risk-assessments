@@ -8,7 +8,7 @@ This repository is for storing and distributing supplementary material for the a
 
 The folder contains figures and supplementary figures.
 
-- **Figure_S3.png**: The color-blind friendly version of the Figure 1. 
+- **fig_BR_balance_CBF.png**: The color-blind friendly version of the Figure 1, used as Figure S3. 
 
 - **fig_BR_balance.png**: Figure 1 of the article. 
 
